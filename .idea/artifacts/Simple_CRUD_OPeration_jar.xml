@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simple_CRUD_OPeration:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simple_CRUD_OPeration_jar</output-path>
+    <root id="archive" name="Sample.jar">
+      <element id="module-output" name="Sample" />
+      <element id="extracted-dir" path="E:/mysqljdbcdriver/mysql-connector-j-9.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
